@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anasim1
-- 👀 I’m interested in Data Analytics & Machine Learning 
-- 🌱 I’m currently learning Data Analytics & Machine Learning
+- 👀 I do data, day in day out 
+- 🌱 I’m currently working on MLOPs & ML Data Pipelines
 
 <!---
 anasim1/anasim1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
